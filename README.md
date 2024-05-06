@@ -1,7 +1,9 @@
-Taller de Fundamentos Avanzados
+# Taller de Fundamentos Avanzados
 Este taller está diseñado para aplicar y profundizar en los conceptos avanzados de JavaScript que hemos visto en clase.
 
-Contenidos
+## Contenidos
+
+
 Requisitos
 Objetivos
 Instrucciones
@@ -381,3 +383,7 @@ Identificación de Reserva: Solicitar al usuario el número de reserva que desea
 Edición de Reserva: Permitir al usuario cambiar la fecha de inicio y fin de la reserva.
 
 Solucion Propuesta*: Implementar una función editarReserva() que busque la reserva por ID y permita al usuario cambiar las fechas de inicio y fin. Actualizar la reserva en el array de reservas con los nuevos detalles.
+
+
+
+Primero verifica el callstack, despues las MICRO TAREAS (Promesas), despues las MACRO (SetTimeOut).
